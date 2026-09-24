@@ -1,0 +1,2 @@
+oi = "olá"
+print("Hello")
