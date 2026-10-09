@@ -1,2 +1,3 @@
-oi = "olá"
-print("Hello")
+oi = "Olá, mundo!"
+
+print(oi)
